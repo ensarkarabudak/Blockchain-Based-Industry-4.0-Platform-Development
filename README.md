@@ -1,4 +1,4 @@
-# Industry-4.0-Platform-with-Blockchain
+# Industry 4.0 Platform with Blockchain
 
 
 ## Installation
